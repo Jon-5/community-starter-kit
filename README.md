@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+An off-blockchain on-broadway social network as a service
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It can be the nothing that everyone wants
 
 ## Getting started
 
